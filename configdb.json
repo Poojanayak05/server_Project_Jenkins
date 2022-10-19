@@ -1,7 +1,7 @@
 {
         "user": "postgres",
-        "password":"Sushmitha1959",
-        "host": "database-2.cmhvgmc50vjd.ap-south-1.rds.amazonaws.com",
+        "password":"root",
+        "host": "host.docker.internal",
         "Port": "5432",
-        "dbname":"database-2"  
+        "dbname":"server_project"  
 } 
